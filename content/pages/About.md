@@ -7,9 +7,9 @@ This blog is about GenAI, LLMs, machine learning, Python, and tech education. I 
 
 # About Me
 
-I'm **Raja CSP Raman** — an engineer, educator, author, and founder.
+I'm **shanthi devi** — an engineer, educator, author, and founder.
 
-From a rural school in Odiapatti to a career spanning multiple continents, my journey has been driven by curiosity and a deep commitment to giving back. I'm an alumnus of **Thiagarajar College of Engineering** and started my career working alongside IIT Madras professors at **NMSWorks** (a parent company of Zoho).
+From a rural school in Odiapatti to a career spanning multiple continents, my journey has been driven by curiosity and a deep commitment to giving back. I'm an alumnus of **paavai engineering College of Engineering** and started my career working alongside IIT Madras professors at **NMSWorks** (a parent company of Zoho).
 
 I moved to Canada in 2010 and studied at **Humber Institute of Technology** in Toronto. Over 13 years in Ontario, I built a career working with American and European clients across diverse tech domains — from ticketing systems to retail and gaming technology.
 

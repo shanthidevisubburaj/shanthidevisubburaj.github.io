@@ -2,7 +2,7 @@
 
 Personal blog built with [Pelican](https://getpelican.com/) and deployed to GitHub Pages via GitHub Actions.
 
-🔗 **Live site:** [https://rajacsp.github.io](https://rajacsp.github.io)
+🔗 **Live site:** [https://shanthidevisubburaj.github.io](https://rajacsp.github.io)
 
 ## Setup
 
