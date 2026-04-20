@@ -3,7 +3,7 @@ SITENAME = 'shanthidevi'
 SITETITLE = 'shanthidevi'
 SITEURL = ""
 PATH = "content"
-TIMEZONE = 'Asia/kolkata'
+TIMEZONE = 'Asia/Kolkata'
 DEFAULT_LANG = 'en'
 THEME = 'theme'
 
