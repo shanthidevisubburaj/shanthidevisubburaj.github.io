@@ -1,8 +1,8 @@
-# rajacsp.github.io
+# shanthidevisubburaj.github.io
 
 Personal blog built with [Pelican](https://getpelican.com/) and deployed to GitHub Pages via GitHub Actions.
 
-🔗 **Live site:** [https://shanthidevisubburaj.github.io](https://rajacsp.github.io)
+🔗 **Live site:** [https://shanthidevisubburaj.github.io](https://shanthidevisubburaj.github.io)
 
 ## Setup
 
