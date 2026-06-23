@@ -23,7 +23,10 @@ PYGMENTS_STYLE = 'github'  # Light mode
 PYGMENTS_STYLE_DARK = 'native'  # Dark mode
 
 # Static files
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'extra']
+EXTRA_PATH_METADATA = {
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+}
 SITELOGO = '/images/shanthidevisubburaj.png'
 
 # Feed generation is usually not desired when developing1
