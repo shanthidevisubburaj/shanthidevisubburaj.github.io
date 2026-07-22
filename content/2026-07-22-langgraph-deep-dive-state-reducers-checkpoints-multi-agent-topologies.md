@@ -1,4 +1,4 @@
-Title: LangGraph Deep Dive: State Reducers, Checkpoints, and Multi-Agent Topologies
+Title: What is LangGraph Deep Dive: State Reducers, Checkpoints, and Multi-Agent Topologies
 Date: 2026-07-22
 Category: GenAI
 Tags: GenAI, AI, LangGraph, LangChain, AI-Agents, Multi-Agent, RAG, Agentic-Systems
